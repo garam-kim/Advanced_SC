@@ -4,7 +4,7 @@
 
 
 
-```
-![2d pattern](https://github.com/garam-kim/Advanced_SC/blob/main/2d_pattern.gif?raw=true)
-```
+
+![2d pattern](https://github.com/garam-kim/Advanced_SC/blob/main/2d_pattern.gif)
+
 
